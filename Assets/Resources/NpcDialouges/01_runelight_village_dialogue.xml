@@ -1,9 +1,0 @@
-<root>
-	<npc name = "Elder">
-		<dialogue>
-			<sentence>You know how dangerous it is to go beyond the village gates.</sentence>
-			<sentence>Come.</sentence>
-			<sentence>We should speak in private.</sentence>
-		</dialogue>
-
-</root>
