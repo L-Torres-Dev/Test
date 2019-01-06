@@ -1,0 +1,13 @@
+<root>
+	<npc name = "Book And Table">
+    <dialogue>
+      <sentence>Long ago, this world witnessed a terrible war...</sentence>
+      <sentence>One that would shake the foundations of all that was known beforehand.</sentence>
+      <sentence>This war was between none other, than the mages and the mageless.</sentence>
+      <sentence>The mages did well at first, but were eventually overrun by technological advancements.</sentence>
+      <sentence>Eventually, the mages would get desperate, and would resort to summoning a terribly powerful creature.</sentence>
+      <sentence>This creature rampaged across our realm, killing any in it's path.</sentence>
+      <sentence>The mages, realizing their mistake tried to</sentence>
+	</dialogue>
+	</npc>
+</root>

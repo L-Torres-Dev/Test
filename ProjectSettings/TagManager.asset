@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - Wall
+  - Enemy
+  - GameManager
+  - SpellsManager
+  - NPC
+  - Collectable
   layers:
   - Default
   - TransparentFX
@@ -13,14 +20,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemies
+  - Spells
+  - Check
+  - NPC
+  - Platform
+  - Wall
+  - Entrance
   - 
   - 
   - 
